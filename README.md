@@ -1,2 +1,1 @@
-# Cpp misc
-my cpp libraries for everything
+this project are still under construction
